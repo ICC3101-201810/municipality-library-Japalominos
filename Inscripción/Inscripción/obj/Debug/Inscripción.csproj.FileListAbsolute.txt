@@ -1,0 +1,7 @@
+C:\Users\ING\Desktop\municipality-library-Japalominos\Inscripción\Inscripción\bin\Debug\Inscripción.exe.config
+C:\Users\ING\Desktop\municipality-library-Japalominos\Inscripción\Inscripción\bin\Debug\Inscripción.exe
+C:\Users\ING\Desktop\municipality-library-Japalominos\Inscripción\Inscripción\bin\Debug\Inscripción.pdb
+C:\Users\ING\Desktop\municipality-library-Japalominos\Inscripción\Inscripción\obj\Debug\Inscripción.csprojResolveAssemblyReference.cache
+C:\Users\ING\Desktop\municipality-library-Japalominos\Inscripción\Inscripción\obj\Debug\Inscripción.csproj.CoreCompileInputs.cache
+C:\Users\ING\Desktop\municipality-library-Japalominos\Inscripción\Inscripción\obj\Debug\Inscripción.exe
+C:\Users\ING\Desktop\municipality-library-Japalominos\Inscripción\Inscripción\obj\Debug\Inscripción.pdb
